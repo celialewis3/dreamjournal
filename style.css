@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    font-family: 'Muli'
+}
+
+h1, h2, h3, p {
+    padding: 0;
+}
+
+h2 {
+    color: #335C67;
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+}
+
+.date {
+    color: #335C67;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+h1 {
+    color: #335C67;
+}
+
+header {
+    background-color: lightpink;
+    padding: 40px;
+    font-size: 1.8rem;
+    color: #335C67;
+}
+
+strong {
+    font-size: 1.2rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+.tags {
+    font-style: italic;
+}
+
+section {
+    padding: 30px 0;
+}
+
+.section-two {
+    background-color: lightpink;
+}
+
+.entry {
+    padding: 25px 0;
+}
+
+.btn {
+    margin-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: lightsalmon;
+    color: black;
+    font-weight: bold;
+}
+
+.btn:hover, .btn:focus, .btn:active {
+    background-color: salmon;
+}
+
